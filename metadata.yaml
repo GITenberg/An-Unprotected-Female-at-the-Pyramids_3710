@@ -1,0 +1,28 @@
+_repo: An-Unprotected-Female-at-the-Pyramids_3710
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: A whimsical short story, derived from the time when Trollope was asked
+  to go and sort out the Egyptian routing of letters on behalf of the General Post
+  Office.
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Travel -- Fiction'
+- !lcsh 'Egypt -- Fiction'
+title: An Unprotected Female at the Pyramids
+url: http://www.gutenberg.org/ebooks/3710
